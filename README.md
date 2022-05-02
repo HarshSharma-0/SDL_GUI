@@ -1,2 +1,2 @@
 # SDL_GUI
-A sdl library supported frsnework to create gui easily
+A SDL_library supported framework to create gui easily
